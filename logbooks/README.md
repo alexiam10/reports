@@ -6,4 +6,4 @@ Here are the list of all personal logbooks of all team members:
 
 ## Standards
 
-Coming soon...
+Must be a table
