@@ -1,10 +1,10 @@
 # Logbook
 
-Joep Van Morkhoven ()
+Eusebiu Pusca ()
 
 Week         | 1| 2| 3| 4| 5| 6| 7| 8|
 -------------|--|--|--|--|--|--|--|--|
-Brainstorming| 2|  |  |  |  |  |  |  |
+Brainstorming| 3|  |  |  |  |  |  |  |
 Programming  |  |  |  |  |  |  |  |  |
 Building     |  |  |  |  |  |  |  |  |
 Digital twin |  |  |  |  |  |  |  |  |

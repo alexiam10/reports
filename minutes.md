@@ -22,6 +22,7 @@ We started to brainstorm ideas:
 - [ ] **Lost & Found Storage**. Sort baggages in some way and using vertical space as storage (done via elevator)
 - [ ] **Carwash**. A robot sorts baggage into clean and dirty. Then all dirty baggages are getting cleaned like a carwash.
 - [ ] **Platics warpper**. From NFC those baggages that are type wrap are wrapped and then sorted somewhere else.
+- [ ] **Alphabet sorter**. Each baggage has a letter assigned the robot sorts by letter then from user input outputs the correct text. This idea can be extended to work with the other group that manages storage related functionality.
 
 **Possible cool features that can be implemented:**
 

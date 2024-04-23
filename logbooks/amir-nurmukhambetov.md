@@ -2,10 +2,13 @@
 
 Amir Nurmukhambetov (1930907)
 
-<<<<<<< HEAD
-## Week 1
-=======
-## Week 1 
+Week         | 1| 2| 3| 4| 5| 6| 7| 8|
+-------------|--|--|--|--|--|--|--|--|
+Brainstorming| 3|  |  |  |  |  |  |  |
+Programming  |  |  |  |  |  |  |  |  |
+Building     |  |  |  |  |  |  |  |  |
+Digital twin |  |  |  |  |  |  |  |  |
 
-I did this that this.
->>>>>>> refs/remotes/origin/main
+## Week 1
+
+- A lot of ideas were generated today.
