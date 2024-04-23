@@ -26,7 +26,7 @@ The core structure of this repo looks general like this:
 └── README.md
 ```
 
-Please follow the standards [here]() to make sure repo was clear and understandable.
+Please follow the standards [here](./logbooks/README.md) to make sure repo was clear and understandable.
 
 ## Group Members
 
