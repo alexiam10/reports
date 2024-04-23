@@ -6,5 +6,6 @@ Here are the list of all personal logbooks of all team members:
 - [Balint Mecsei](./balint-mecsei.md)
 - [Ibrahim Oyman](./ibrahim-oyman.md)
 - [Joep Van Morkhoven](./joep-van-morkhoven.md)
+- [Alexia Miliganu](./alexia-miliganu.md)
 
 ## Standards
